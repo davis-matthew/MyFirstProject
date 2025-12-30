@@ -1,7 +1,6 @@
 Checklist of things I have done (fill in with x's):
 
-- [ ] Branch name includes BANANA
-- [ ] All fixes are typographical in nature and do not affect the code behavior
+- [ ] All code is my own and I certify that it is not malicious
 
 ---
-Notes:
+Additional Notes:
